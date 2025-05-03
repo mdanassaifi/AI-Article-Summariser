@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "AI Article Summariser",
+    "version": 1.0,
+    
+
+    "permission": ["scripting", "activeTab", "storage" ],
+
+     "action":{
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+     },
+            
+      "contant_scripts":[
+        {
+            "matches":["<all_urls>"],
+            "js":["content.js"]
+        }
+      ],
+
+
+}
+     
+
+
