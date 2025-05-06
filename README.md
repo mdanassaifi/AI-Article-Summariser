@@ -35,9 +35,8 @@
 4. Click **Summarize**.
 5. The summary will be displayed according to your selected mode.
 
-> No login or API key setup is required. Google Gemini is free to use.
+> ## First Time login required Google Gemini API key setup . Google Gemini is free to use.
 
 ## Screenshots
 
-_Add your screenshots here_
 
