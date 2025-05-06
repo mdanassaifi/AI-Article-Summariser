@@ -38,6 +38,17 @@
 > ## First Time login required Google Gemini API key setup . Google Gemini is free to use.
 
 ## Screenshots
-<img src="/imgsc/1" alt="login idea">
+## Login Api First time
+<img src="imgsc/1.png" alt="login idea">
 
+## Select Point
+<img src="imgsc/2.png" alt="points">
 
+## Brief Summ..
+<img src="imgsc/3.png" alt="briefexm..">
+
+## Details
+<img src="imgsc/4.png" alt="det..exm">
+
+## Bullet Points
+<img src="imgsc/5.png" alt="Bullet exm..">
